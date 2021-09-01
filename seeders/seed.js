@@ -3,7 +3,7 @@ const db = require('../models');
 
 
 
-mongoose.connect('mongodb://localhost/FitTrack', {
+mongoose.connect('mongodb://localhost/workout', {
   useNewUrlParser: true,
   useFindAndModify: false,
   useUnifiedTopology: true,

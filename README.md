@@ -11,8 +11,8 @@ Mongo
 Constributing
 
 Test
-
-
+https://fittrackjb.herokuapp.com/
+https://github.com/JoelBal/FitTrack.git
 
 
 
